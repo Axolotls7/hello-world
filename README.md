@@ -1,2 +1,2 @@
 # Hello, World!
-Various little programs in various languages, to learn them.
+Various little programs in various little languages, to learn to use them.
